@@ -1,5 +1,4 @@
-# CyberStoreDraft
-
+# Apple-Store
 Vue.js Web App Practise
 
 This template should help get you started developing with Vue 3 in Vite.
